@@ -8,11 +8,11 @@ export const Navbar = () => {
                 <span>Dashboard Admin</span>
             </div>
             <div className='icons'>
-                <img src='/public/search.svg' alt='search' />
-                <img src='/public/app.svg' alt='app' />
-                <img src='/public/expand.svg' alt='expand' />
+                <img src='/search.svg' alt='search' />
+                <img src='/app.svg' alt='app' />
+                <img src='/expand.svg' alt='expand' />
                 <div className='notification'>
-                    <img src='/public/notifications.svg' alt='notification' />
+                    <img src='/notifications.svg' alt='notification' />
                     <span>1</span>
                 </div>
                 <div className='user'>
@@ -27,7 +27,7 @@ export const Navbar = () => {
                     />
                     <span>Jane Smith</span>
                 </div>
-                <img src='/public/settings.svg' alt='settings' />
+                <img src='/settings.svg' alt='settings' />
             </div>
         </div>
     );
