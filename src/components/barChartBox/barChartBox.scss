@@ -1,0 +1,14 @@
+@use "../../styles/responsive.scss" as *;
+@use "../../styles/variables.scss" as *;
+
+.barChartBox {
+    width: 100%;
+    height: 100%;
+
+    h1 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .chart {}
+}
