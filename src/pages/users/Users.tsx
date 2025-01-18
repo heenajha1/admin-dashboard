@@ -1,4 +1,4 @@
-import { DataTable } from '../../components/dataTable/DataTable';
+// import { DataTable } from '../../components/dataTable/DataTable';
 import './users.scss';
 
 export const Users = () => {
